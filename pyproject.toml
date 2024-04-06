@@ -7,6 +7,13 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
+mkdocs = "^1.5.3"
+taskipy = "^1.12.2"
+black = "^24.3.0"
+isort = "^5.13.2"
+pip-audit = "^2.7.2"
+pydocstyle = "^6.3.0"
+pre-commit = "^3.7.0"
 
 
 [build-system]
